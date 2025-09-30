@@ -1,4 +1,4 @@
-# A stress detection web app using GSR, temperature, and heart rate sensors with an AI model trained on the WESAD dataset. Displays live charts of stress, temperature, and heart rate over time.
+# A stress detection web app using GSR, temperature, and heart rate sensors connected using an ESP32 with an AI model trained on the WESAD dataset. Displays live charts of stress, temperature, and heart rate over time.
 
 
 
